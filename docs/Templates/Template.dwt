@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<!-- #BeginEditable "doctitle" --><title> </title><!-- #EndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF">
+<div id="Page" style="position:absolute; left:0px; top:0px; z-index:1; visibility: visible; width: 100%; height: 100%"> 
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+  	 <td>
+		 <table border="0" align=right width="240" height="134" cellspacing="0" cellpadding="0" >
+	 		<td align="left" valign="bottom" bgcolor="#FFFFFF"><img src="../pictures/whitepixel.gif" width="20"> </td>
+			 <td align=center valign="bottom" width="128" bgcolor="#FFFFFF"> 
+				<img src="../pictures/mc128.gif" width="128" height="128">
+			 </td>
+			 
+            <td width="92" align="center" valign="bottom" bgcolor="#FFFFFF"><font face="Trebuchet MS"> 
+              <img src="../pictures/fadeRight.gif" width="92" height="135"></font> 
+            </td>
+	 		<td width="100%" align="left" valign="bottom" bgcolor="#FFCC99"> </td>
+		 </table>
+	 </td>
+	 <td>
+	 	 <table border="0" align=left cellspacing="0" cellpadding="0" width="600" height="132" >
+	 <td width="134" align="left" height="132" valign="top" bgcolor="#FFCC99"> 
+	  
+		<p><font face="Trebuchet MS"><span class="smallplain"><br>
+		  
+		  </span></font><font face="Trebuchet MS"><br>
+                <a href="index.html"><strong>Home Page</strong><br>
+                </a> <a href="intro.html">Introduction<br>
+                </a> <a href="versions.html">Versions</a><br>
+                <a href="authors.html">Authors</a><br>
+                <a href="acquiring.html">Acquiring MacClade</a></font></p>
+	  
+	  </td>
+      <td align="left" valign="top" height="132" width="134"  bgcolor="#FFCC99"> 
+        <p><strong><font face="Trebuchet MS"><br>
+          </font></strong><font face="Trebuchet MS"><strong>Features</strong><br>
+          <span class="smallplain">&nbsp;<a href="macclade4news.html">Version 
+          4</a><br>
+                &nbsp;<a href="newfeatures.html">4.01-4.08 Features</a><br>
+          &nbsp;<a href="hidden.html">Hidden Features</a></span> <br>
+          &nbsp;<a href="differences.html">Full vs Classroom</a> </font></p>
+        </td>
+      <td align="left" valign="top" height="132" width="105"  bgcolor="#FFCC99"> 
+        <p><strong><font face="Trebuchet MS"><br>
+          </font></strong><font face="Trebuchet MS"><strong>Downloads</strong><br>
+          &nbsp;<a href="download.html">Downloads</a><br>
+          &nbsp;<a href="updaters.html">Updaters</a><br>
+          &nbsp;<a href="demo.html">Demo version</a></font><br>
+        </td>
+      <td align="left" valign="top" height="132" width="98"  bgcolor="#FFCC99"> 
+        <p><font face="Trebuchet MS"><span class="smallplain"><strong><br>
+          Support</strong><br>
+          &nbsp;<a href="faq.html">FAQ</a><br>
+          &nbsp;<a href="bugs.html">Known Bugs</a><a href="../Matrices.html"> 
+          </a></span><br>
+          <span class="smallplain">&nbsp;</span><a href="bugreport.html">Feedback</a></font></p>
+        </td>
+      <td align="left" valign="top" height="132" width="94"><font face="Trebuchet MS"><img src="../pictures/fadeLeft.gif"><img src="../pictures/fadeLeft.gif" width="92" height="134"></font></td>
+		</table>
+		</td>
+    </tr>
+    <tr> 
+      <td align="left" valign="top"><font face="Trebuchet MS"><img src="../pictures/title.gif" width="208" height="48" align="top"></font></td>
+      <td align="left" valign="top" bgcolor="#FFFFFF"><img src="../pictures/whitepixel.gif" height="50" width="20"> </td>
+   </tr>
+  </table>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%">
+    <tr> 
+      <td valign="top" align="left" width="110" height="100%"> 
+        <table border="0" cellspacing="0" cellpadding="0" width="100">
+          <tr> 
+            <td height="35"><font face="Trebuchet MS"><img src="../pictures/fadeDown.gif" width="5" height="92" border="0" alt=" "></font></td>
+            <td><font face="Trebuchet MS"><img src="../pictures/fadeDown.gif" width="124" height="92" border="0" alt=" "></font></td>
+            <td><font face="Trebuchet MS"><img src="../pictures/fadeDown.gif" width="16" height="92" border="0" alt=" "></font></td>
+          </tr>
+          <tr bgcolor="#FFCC99"> 
+            <td height="35" align="left" valign="middle">&nbsp;</td>
+            <td height="200" align="left" valign="middle"><font face="Trebuchet MS">&nbsp;</font></td>
+            <td height="35" align="left" valign="middle">&nbsp;</td>
+          </tr>
+          <tr bgcolor="#FFCC99"> 
+            <td height="35" align="left" valign="middle">&nbsp;</td>
+            <td height="35" align="left" valign="middle">&nbsp;</td>
+            <td height="35" align="left" valign="middle">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td height="35" align="left" valign="middle"><font face="Trebuchet MS"><img src="../pictures/fadeUp.gif" width="5" height="92"></font></td>
+            <td height="35" align="left" valign="middle"><font face="Trebuchet MS"><img src="../pictures/fadeUp.gif" width="124" height="92"></font></td>
+            <td height="35" align="left" valign="middle"><font face="Trebuchet MS"><img src="../pictures/fadeUp.gif" width="16" height="92"></font></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" width="100%" height="100%"> 
+        <table border="0" cellspacing="0" cellpadding="10">
+          <tr> 
+            <td><font face="Trebuchet MS"><!-- #BeginEditable "body" --> &nbsp;{body}&nbsp; 
+              <!-- #EndEditable --></font></td>
+          </tr>
+        </table>
+        <table border="0" cellspacing="0" cellpadding="5" width="100%">
+          <tr> 
+            <td align="left" valign="top"> 
+              <hr>
+              <font face="Trebuchet MS"><span class="smallplain">Copyright &copy; 
+              2011 by David R. Maddison and Wayne P. Maddison.<br>
+              &nbsp;All rights reserved. </span></font></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<font face="Trebuchet MS"> 
+</font>
+</body>
+</html>
